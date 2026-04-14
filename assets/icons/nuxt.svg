@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect x="0" y="0" width="48" height="48" fill="#FFD300" shape-rendering="crispEdges"/>
+  <rect x="2" y="2" width="44" height="44" fill="#ECC300" shape-rendering="crispEdges"/>
+  <rect x="4" y="4" width="40" height="40" fill="#0D1E12" shape-rendering="crispEdges"/>
+  <rect x="4" y="36" width="40" height="8" fill="#1C1B1B" shape-rendering="crispEdges"/>
+  <text x="24" y="25" font-family="monospace" font-size="11" fill="#00DC82" text-anchor="middle" font-weight="bold">&gt;_N</text>
+  <text x="24" y="43" font-family="monospace" font-size="5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">NUXT</text>
+</svg>

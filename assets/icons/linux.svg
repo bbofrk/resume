@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect x="0" y="0" width="48" height="48" fill="#FFD300" shape-rendering="crispEdges"/>
+  <rect x="2" y="2" width="44" height="44" fill="#ECC300" shape-rendering="crispEdges"/>
+  <rect x="4" y="4" width="40" height="40" fill="#1A1A2E" shape-rendering="crispEdges"/>
+  <rect x="4" y="36" width="40" height="8" fill="#1C1B1B" shape-rendering="crispEdges"/>
+  <rect x="19" y="7" width="10" height="9" fill="#FFFFFF" shape-rendering="crispEdges"/>
+  <rect x="17" y="15" width="14" height="13" fill="#FFFFFF" shape-rendering="crispEdges"/>
+  <rect x="21" y="9" width="2" height="2" fill="#1A1A2E" shape-rendering="crispEdges"/>
+  <rect x="25" y="9" width="2" height="2" fill="#1A1A2E" shape-rendering="crispEdges"/>
+  <rect x="22" y="15" width="4" height="2" fill="#FF8C00" shape-rendering="crispEdges"/>
+  <rect x="19" y="17" width="10" height="9" fill="#DDDDDD" shape-rendering="crispEdges"/>
+  <rect x="18" y="28" width="4" height="2" fill="#FF8C00" shape-rendering="crispEdges"/>
+  <rect x="26" y="28" width="4" height="2" fill="#FF8C00" shape-rendering="crispEdges"/>
+  <text x="24" y="43" font-family="monospace" font-size="5" fill="#FFFFFF" text-anchor="middle" font-weight="bold">LINUX</text>
+</svg>
